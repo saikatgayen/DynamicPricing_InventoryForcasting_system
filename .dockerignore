@@ -1,0 +1,8 @@
+my_env/
+__pycache__/
+*.pyc
+.git
+.gitignore
+notebook/
+data/raw/
+data/external/

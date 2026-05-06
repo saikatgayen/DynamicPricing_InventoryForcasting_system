@@ -8,8 +8,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # API/
-API/__pycache__/
+api/__pycache__/
 
-#Data
-Data/
+# Data
+data/
 
