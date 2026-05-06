@@ -1,5 +1,5 @@
-#AI-Powered Dynamic Pricing Engine
-##Overview
+# AI-Powered Dynamic Pricing Engine
+## Overview
 
 This project is a production-ready machine learning system that dynamically adjusts product prices based on demand patterns, historical trends, and user behavior.
 
@@ -7,7 +7,7 @@ It is designed for e-commerce platforms and online marketplaces to optimize pric
 
 The project demonstrates end-to-end ML engineering, from data processing to deployment.
 
-##Key Features
+## Key Features
 1. End-to-end ML pipeline (data → features → model → deployment)
 2. Real-time price prediction using FastAPI REST API
 3. Demand-based pricing using regression/time-series models
@@ -15,7 +15,7 @@ The project demonstrates end-to-end ML engineering, from data processing to depl
 5. Dockerized deployment for scalability and reproducibility
 6. Production-ready architecture with modular design
 
-##Tech Stack
+## Tech Stack
 - Programming: Python
 - Data Processing: Pandas, NumPy
 - Machine Learning: Scikit-learn
@@ -23,10 +23,10 @@ The project demonstrates end-to-end ML engineering, from data processing to depl
 - Deployment: Docker
 - Version Control: Git
 
-##System Architecture
+## System Architecture
 <img width="640" height="198" alt="Screenshot 2026-05-06 at 10 22 17 PM" src="https://github.com/user-attachments/assets/45c56c96-e71f-4857-b248-a25f608b890e" />
 
-##ML Approach
+## ML Approach
 - Built regression/time-series models to predict optimal pricing
 - Used historical sales data and external signals
 - Applied feature engineering to capture:
@@ -35,7 +35,7 @@ The project demonstrates end-to-end ML engineering, from data processing to depl
 - Customer behavior patterns
 - Evaluated models using appropriate performance metrics
 
-##Getting Started
+## Getting Started
 1️⃣ Clone the Repository
 <img width="557" height="90" alt="Screenshot 2026-05-06 at 10 23 09 PM" src="https://github.com/user-attachments/assets/c67b0297-f314-4bf4-8979-33a202a15b66" />
 
@@ -50,32 +50,32 @@ The project demonstrates end-to-end ML engineering, from data processing to depl
 
 5️⃣ Access API Docs
 
-###Go to:
+### Go to:
 👉 http://127.0.0.1:8000/docs
 
-##Docker Setup
+## Docker Setup
 <img width="330" height="98" alt="Screenshot 2026-05-06 at 10 23 57 PM" src="https://github.com/user-attachments/assets/ce5b5298-8dda-40e1-a911-3b544a9ed43f" />
 
-##Use Cases
+## Use Cases
 - E-commerce pricing optimization
 - Ride-sharing fare adjustment
 - Airline/hotel dynamic pricing
 - Retail demand-based pricing
 
-##What This Project Demonstrates
+## What This Project Demonstrates
 - Real-world ML system design
 - Model deployment with APIs
 - Production-level thinking (scalability, modularity)
 - Basics of MLOps practices
 
-##Future Improvements
+## Future Improvements
 - Add deep learning / advanced time-series models
 - Integrate real-time streaming data (Kafka)
 - Deploy on cloud (AWS/GCP/Azure)
 - Add monitoring & logging (MLflow, Prometheus)
 
-#Author
+# Author
 
-##Saikat Gayen
+## Saikat Gayen
 Aspiring ML Engineer | Building production-ready AI systems
 
