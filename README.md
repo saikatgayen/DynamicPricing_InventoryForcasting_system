@@ -1,6 +1,8 @@
 # AI-Powered Dynamic Pricing Engine
 ## Overview
 
+## Project URL : https://dynamicpricing-dashborad.onrender.com
+
 This project is a production-ready machine learning system that dynamically adjusts product prices based on demand patterns, historical trends, and user behavior.
 
 It is designed for e-commerce platforms and online marketplaces to optimize pricing strategies, maximize revenue, and stay competitive in real time.
